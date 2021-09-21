@@ -14,7 +14,7 @@ After studying and some years in the job I more or less "forgot" my old hobby an
 
 From there everything went quite fast. Steep learning curve with digital photography (back in school I only took photos with my father's chemical film SLR), automated tracking, (auto-) guiding and light pollution. I quickly found the backyard of my house not being optimal as the street lights were (and still are) lighting all my backyard and the neighboring houses prevent any viewing angle below 45 degrees. So two choices: either quit the hobby again or, move up one level, i.e. build my own observatory on the rooftop of my house.
 
-As this page exists it is easy to guess what I did - so after almost 2 years of data collecting, asking around and planning, I was able to build my observatory in 2016. Since then, I even learned a lot more, leveled up lots of my equipment and in 2021 I event retired my beloved LX200 as I found an even better telescope of my dreams and was finally able to afford it: a ![Planewave CDK 12.5](https://astrohd.de/images/phocagallery/equipment/PlanewaveObs.jpeg)
+As this page exists it is easy to guess what I did - so after almost 2 years of data collecting, asking around and planning, I was able to build my observatory in 2016. Since then, I even learned a lot more, leveled up lots of my equipment and in 2021 I event retired my beloved LX200 as I found an even better telescope of my dreams and was finally able to afford it: a ![Planewave CDK 12.5](https://astrohd.de/images/equipment/PlanewaveObs.jpeg)
 
 ### SmartHome & 3D Printing
 
