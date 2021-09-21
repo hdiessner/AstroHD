@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to AstroHD
 
-You can use the [editor on GitHub](https://github.com/hdiessner/astrohd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the new home of my personal astronomy observatory website. After several years of hosting the site on my own machine, data and management tasks grew so much that I was overwhelmed with maintenance tasks and I decided to start from scratch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Also since I published the first version of my website I started another hobby: home automation
 
-### Markdown
+So it perfectly made sense to build the new web presence with both topics in mind.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Astronomy & Astro Photography
 
-```markdown
-Syntax highlighted code block
+As a kid, I already was fascinated by the stars, planets and the universe. During school, I saved all my money for my first telescope - and retrospectively I already was totally me: I'd rather wait longer, save more money to be able to afford a better telescope. With the help of my grandmother I finally could by my Eschenbach Galaxis 2006, a catadioptric mirror with 114mm size. And it deeply moved me when I saw the rings of Saturn with my own eyes for the first time.
 
-# Header 1
-## Header 2
-### Header 3
+After studying and some years in the job I more or less "forgot" my old hobby and missed some great astronomical events (like the transit of Venus) but in 2012, I re-discovered my enthusiasm for space and I was able to buy my telescope of my dreams: a second hand Meade LX200 EMC 10"
 
-- Bulleted
-- List
+From there everything went quite fast. Steep learning curve with digital photography (back in school I only took photos with my father's chemical film SLR), automated tracking, (auto-) guiding and light pollution. I quickly found the backyard of my house not being optimal as the street lights were (and still are) lighting all my backyard and the neighboring houses prevent any viewing angle below 45 degrees. So two choices: either quit the hobby again or, move up one level, i.e. build my own observatory on the rooftop of my house.
 
-1. Numbered
-2. List
+As this page exists it is easy to guess what I did - so after almost 2 years of data collecting, asking around and planning, I was able to build my observatory in 2016. Since then, I even learned a lot more, leveled up lots of my equipment and in 2021 I event retired my beloved LX200 as I found an even better telescope of my dreams and was finally able to afford it: a ![Planewave CDK 12.5](https://astrohd.de/images/phocagallery/equipment/PlanewaveObs.jpeg)
 
-**Bold** and _Italic_ and `Code` text
+### SmartHome & 3D Printing
 
-[Link](url) and ![Image](src)
-```
+From my rooftop observatory I learned a lot about automation and remote controlling of astronomical equipment and I started to think: *Why is the best automated and most comfortably controllable space in my house the one room I usually enter the least - my obsevatory?*
+It occurred to me I had to change that and as I already had some kind of automated islands (like heating system, motorized shades, universal remote control units) I started there to improve, connect and automated things.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hdiessner/astrohd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+With the help from @Ansi I learned to 3D print and now I am the proud owner of 2 DIY 3D printers that greatly help me realize even the craziest ideas. During the pandemic and the lockdown for the best part of 2020, I event created automations for my garage and in 2021 even the garden.
