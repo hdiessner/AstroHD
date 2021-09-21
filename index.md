@@ -8,9 +8,9 @@ So it perfectly made sense to build the new web presence with both topics in min
 
 ### Astronomy & Astro Photography
 
-As a kid, I already was fascinated by the stars, planets and the universe. During school, I saved all my money for my first telescope - and retrospectively I already was totally me: I'd rather wait longer, save more money to be able to afford a better telescope. With the help of my grandmother I finally could by my Eschenbach Galaxis 2006, a catadioptric mirror with 114mm size. And it deeply moved me when I saw the rings of Saturn with my own eyes for the first time.
+As a kid, I already was fascinated by the stars, planets and the universe. During school, I saved all my money for my first telescope - and retrospectively I already was totally me: I'd rather wait longer, save more money to be able to afford a better telescope. With the help of my grandmother I finally could buy an Eschenbach Galaxis 2006, a catadioptric mirror with 114mm diameter. And it deeply moved me when I saw the rings of Saturn with my own eyes for the first time.
 
-After studying and some years in the job I more or less "forgot" my old hobby and missed some great astronomical events (like the transit of Venus) but in 2012, I re-discovered my enthusiasm for space and I was able to buy my telescope of my dreams: a second hand Meade LX200 EMC 10"
+After studying and some years in the job I more or less "forgot" my old hobby and missed some great astronomical events (like the transit of Venus) but in 2012, I re-discovered my enthusiasm for space and I was able to buy my telescope of my dreams: a second-hand Meade LX200 EMC 10".
 
 From there everything went quite fast. Steep learning curve with digital photography (back in school I only took photos with my father's chemical film SLR), automated tracking, (auto-) guiding and light pollution. I quickly found the backyard of my house not being optimal as the street lights were (and still are) lighting all my backyard and the neighboring houses prevent any viewing angle below 45 degrees. So two choices: either quit the hobby again or, move up one level, i.e. build my own observatory on the rooftop of my house.
 
