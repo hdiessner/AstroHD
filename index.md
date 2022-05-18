@@ -21,4 +21,4 @@ As this page exists it is easy to guess what I did - so after almost 2 years of 
 From my rooftop observatory I learned a lot about automation and remote controlling of astronomical equipment and I started to think: *Why is the best automated and most comfortably controllable space in my house the one room I usually enter the least - my obsevatory?*
 It occurred to me I had to change that and as I already had some kind of automated islands (like heating system, motorized shades, universal remote control units) I started there to improve, connect and automate things.
 
-With the help from @AnsgarSchmidt I learned to 3D print and now I am the proud owner of 2 DIY 3D printers that greatly help me realize even the craziest ideas. During the pandemic and the lockdown for the best part of 2020, I event created automations for my garage and in 2021 even the garden.
+With the help from @AnsgarSchmidt I learned to 3D print and now I am the proud owner of 2 DIY 3D printers that greatly help me realize even the craziest ideas. During the pandemic and the lockdown for the best part of 2020, I created automations for my garage and in 2021 even the garden.
