@@ -24,3 +24,5 @@ It occurred to me I had to change that and as I already had some kind of automat
 With the help from @AnsgarSchmidt I learned to 3D print and now I am the proud owner of 2 DIY 3D printers that greatly help me realize even the craziest ideas. During the pandemic and the lockdown for the best part of 2020, I created automations for my garage and in 2021 even the garden.
 
 [About](https://hdiessner.github.io/AstroHD/about)
+
+[Improvements May 2022](https://hdiessner.github.io/AstroHD/improvements2205)
