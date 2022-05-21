@@ -43,5 +43,6 @@ Even if this design is not really sphisticated, it does it's job and I put it on
 
 With that, the power plug for my camera looks much better than before!
 ![Astro Camera with Power Plug](/images/AstroCamPower.jpg)
+![Flip-Flat with Skirt](/images/FlipFlatSkirt.jpg)
 
 [Home](https://hdiessner.github.io/AstroHD/)
