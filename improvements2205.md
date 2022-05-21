@@ -42,6 +42,6 @@ That was years ago! So time, to create a permanent power plug. I recently bought
 Even if this design is not really sphisticated, it does it's job and I put it on [Thingiverse](https://www.thingiverse.com/thing:5391057).
 
 With that, the power plug for my camera looks much better than before!
-![Astro Camera with Power Plug](/assets/images/AstroCamPower.jpg)
+![Astro Camera with Power Plug](/images/AstroCamPower.jpg)
 
 [Home](https://hdiessner.github.io/AstroHD/)
