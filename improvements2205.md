@@ -19,7 +19,7 @@ At least, my version doesn't really light-seal the front when covering the Teles
 - needed two small, additional cut-outs (sharp knife) to not interfere with the base of the motor box
 - when closed, the cover is now light-tight and the inside of the scope is perfectly dark
 
-[Flip-Flat with Skirt](https://github.com/hdiessner/AstroHD/blob/gh-pages/FlipFlatSkirt.jpg)
+[Flip-Flat with Skirt](src https://github.com/hdiessner/AstroHD/blob/gh-pages/FlipFlatSkirt.jpg)
 
 I uploaded the STL file over on [Thingiverse](https://www.thingiverse.com/thing:5391034)
 
@@ -42,4 +42,4 @@ That was years ago! So time, to create a permanent power plug. I recently bought
 Even if this design is not really sphisticated, it does it's job and I put it on [Thingiverse](https://www.thingiverse.com/thing:5391057).
 
 With that, the power plug for my camera looks much better than before!
-[Astro Camera with Power Plug](https://github.com/hdiessner/AstroHD/blob/gh-pages/AstroCamPower.jpg)
+[Astro Camera with Power Plug](src https://github.com/hdiessner/AstroHD/blob/gh-pages/AstroCamPower.jpg)
