@@ -19,7 +19,7 @@ At least, my version doesn't really light-seal the front when covering the Teles
 - needed two small, additional cut-outs (sharp knife) to not interfere with the base of the motor box
 - when closed, the cover is now light-tight and the inside of the scope is perfectly dark
 
-![Flip-Flat with Skirt](/images/FlipFlatSkirt.jpg)
+![Flip-Flat with Skirt](./FlipFlatSkirt.jpg)
 
 I uploaded the STL file over on [Thingiverse](https://www.thingiverse.com/thing:5391034)
 
