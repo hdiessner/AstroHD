@@ -1,3 +1,7 @@
+---
+layout: default
+title: ''
+---
 ## About
 
 This presence is maintained by me, Herwig Diessner (hdiessner, aka AstroHD). I live in the southern part of Germany, right between Stuttgart and Karlsruhe.
