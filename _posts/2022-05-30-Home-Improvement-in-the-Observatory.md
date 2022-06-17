@@ -4,8 +4,6 @@ date: 2022-05-30
 layout: post
 
 ---
-## Home Improvement in the Observatory
-
 For months, I couldn't use my observatory as first the dome had trouble with its motor and after that worked again, the Mount computer suddenly died. So it had to be sent to the manufacturer for repair.
 All these cirumstances resulted in the fact that even though I already bought my CDK in March 2021, even in May 2022 I still wasn't able to run even one single imaging night.
 So I started to use the time to upgrade and improve my equipment, and change some old "interim" solutions, that would otherwise become final ones, eventually...
