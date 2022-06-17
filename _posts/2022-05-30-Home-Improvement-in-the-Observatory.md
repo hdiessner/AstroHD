@@ -2,6 +2,7 @@
 title: "Home Improvement in the Observatory"
 date: 2022-05-30
 layout: post
+categories: astronomy
 
 ---
 For months, I couldn't use my observatory as first the dome had trouble with its motor and after that worked again, the Mount computer suddenly died. So it had to be sent to the manufacturer for repair.
@@ -24,6 +25,10 @@ At least, my version doesn't really light-seal the front when covering the Teles
 - when closed, the cover is now light-tight and the inside of the scope is perfectly dark
 
 ![Flip-Flat with Skirt](../assets/images/FlipFlatSkirt.jpg)
+[Zweiter Versuch](https://hdiessner.github.io/AstroHD/assets/images/FlipFlatSkirt.jpg)
+[Vielleicht so](/AstroHD/assets/images/FlipFlatSkirt.jpg)
+[Oder evtl so](/assets/images/FlipFlatSkirt.jpg)
+[So wohl auch nicht](/hdiessner/AstroHD/assets/images/FlipFlatSkirt.jpg)
 
 I uploaded the STL file over on [Thingiverse](https://www.thingiverse.com/thing:5391034)
 
@@ -46,5 +51,5 @@ That was years ago! So time, to create a permanent power plug. I recently bought
 Even if this design is not really sphisticated, it does it's job and I put it on [Thingiverse](https://www.thingiverse.com/thing:5391057).
 
 With that, the power plug for my camera looks much better than before!
-![Astro Camera with Power Plug](../assets/images//AstroCamPower.jpg)
+![Astro Camera with Power Plug](../assets/images/AstroCamPower.jpg)
 
