@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 list_title: Latest Posts
 title: ''
 ---
