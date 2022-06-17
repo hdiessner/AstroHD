@@ -1,5 +1,3 @@
-## Welcome to AstroHD
-
 This is the new home of my personal astronomy observatory website. After several years of hosting the site on my own machine, data and management tasks grew so much that I was overwhelmed with maintenance tasks and I decided to start from scratch.
 
 Also since I published the first version of my website I started another hobby: home automation
@@ -22,5 +20,3 @@ From my rooftop observatory I learned a lot about automation and remote controll
 It occurred to me I had to change that and as I already had some kind of automated islands (like heating system, motorized shades, universal remote control units) I started there to improve, connect and automate things.
 
 With the help from @AnsgarSchmidt I learned to 3D print and now I am the proud owner of 2 DIY 3D printers that greatly help me realize even the craziest ideas. During the pandemic and the lockdown for the best part of 2020, I created automations for my garage and in 2021 even the garden.
-
-[About](https://hdiessner.github.io/AstroHD/about)
