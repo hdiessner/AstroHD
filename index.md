@@ -1,3 +1,9 @@
+---
+layout: home
+list_title: Latest Posts
+title: ''
+---
+## Welcome to AstroHD!
 This is the new home of my personal astronomy observatory website. After several years of hosting the site on my own machine, data and management tasks grew so much that I was overwhelmed with maintenance tasks and I decided to start from scratch.
 
 Also since I published the first version of my website I started another hobby: home automation
