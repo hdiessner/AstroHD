@@ -1,6 +1,5 @@
 ---
 layout: default
-list_title: Latest Posts
 title: ''
 ---
 ## Welcome to AstroHD!
