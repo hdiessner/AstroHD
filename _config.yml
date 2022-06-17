@@ -1,11 +1,16 @@
 theme: jekyll-theme-midnight
+#theme: minima
 title: AstroHD Web
 description: Web presence of AstroHD
 
 author: Herwig Diessner
 email: herwig@astrohd.de
 description: > # this means to ignore newlines until "baseurl:"
-  This is a blog about latest developments and improvements of the astronomy & astro photography observatory on the rooftop of a private house. Additionally news and updates about home-automation using Home-Assistant, Homematic, Node-Red and other home improvement activities like ESP, NodeMCU, Google Coral and 3D printing
+  This blog is about latest developments and improvements of the astronomy & astro photography observatory on the rooftop of my house.
+  Additionally, news and updates about home-automation using Home-Assistant, Homematic, Node-Red and other home improvement activities like ESP, NodeMCU, Google Coral and 3D printing.
+
 # social links
 twitter_username: sternwartef
 github_username:  hdiessner
+
+show_excerpts: true
