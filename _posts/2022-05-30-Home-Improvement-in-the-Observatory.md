@@ -24,11 +24,15 @@ At least, my version doesn't really light-seal the front when covering the Teles
 - needed two small, additional cut-outs (sharp knife) to not interfere with the base of the motor box
 - when closed, the cover is now light-tight and the inside of the scope is perfectly dark
 
+erstes Bild
 ![Flip-Flat with Skirt](../assets/images/FlipFlatSkirt.jpg)
+
+zweites Bild
 ![Zweiter Versuch](https://hdiessner.github.io/AstroHD/assets/images/FlipFlatSkirt.jpg)
-![Vielleicht so](/AstroHD/assets/images/FlipFlatSkirt.jpg)
+
+drittes Bild
 ![Oder evtl so](/assets/images/FlipFlatSkirt.jpg)
-![So wohl auch nicht](/hdiessner/AstroHD/assets/images/FlipFlatSkirt.jpg)
+
 
 I uploaded the STL file over on [Thingiverse](https://www.thingiverse.com/thing:5391034)
 
