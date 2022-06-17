@@ -2,7 +2,7 @@
 title: "Home Improvement in the Observatory"
 date: 2022-05-30
 layout: post
-categories: astronomy
+
 
 ---
 For months, I couldn't use my observatory as first the dome had trouble with its motor and after that worked again, the Mount computer suddenly died. So it had to be sent to the manufacturer for repair.
