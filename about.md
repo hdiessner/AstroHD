@@ -1,4 +1,4 @@
-## About AstroHD
+## About
 
 This presence is maintained by me, Herwig Diessner (hdiessner, aka AstroHD). I live in the southern part of Germany, right between Stuttgart and Karlsruhe.
 My passion for astronomy and astro photography started more or less when I started to read - so as a kid, I already was able to navigate the sky and
