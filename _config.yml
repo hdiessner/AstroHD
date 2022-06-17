@@ -1,5 +1,5 @@
-theme: jekyll-theme-midnight
-#theme: minima
+#theme: jekyll-theme-midnight
+theme: minima
 title: AstroHD Web
 description: Web presence of AstroHD
 
@@ -13,4 +13,4 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: sternwartef
 github_username:  hdiessner
 
-show_excerpts: true
+show_excerpts: true # set to false to remove excerpts on the homepage
